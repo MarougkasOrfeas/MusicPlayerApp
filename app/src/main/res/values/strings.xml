@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MusicPlayerFinal</string>
+
+    <!-- Activity Main  -->
+    <string name="mainActivityTitle">SONGS</string>
+    <string name="noSongsFound">NO SONGS FOUND</string>
+
+    <!-- Activity Songs List    -->
+    <string name="listedMusicIcon">Icon for Music item in list</string>
+
+    <!-- Activity Music Player   -->
+    <string name="songTitle">Title of the song</string>
+    <string name="currentTime">0:00</string>
+    <string name="durationTime">0:00</string>
+    <string name="songIcon">Song Icon</string>
+    <string name="goToPreviousSongIcon">Go to previous song</string>
+    <string name="goToNextSongIcon">Go to next song</string>
+    <string name="pauseIcon">Pause Image</string>
+    <string name="forward">Go 30 seconds forward</string>
+    <string name="goBackwards">Go 10 seconds backwards</string>
+
+</resources>
